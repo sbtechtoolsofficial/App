@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">WallCraft</string>
+    <string name="studio_tagline">HOME SCREEN STUDIO</string>
+    <string name="gallery_headline">Set Your Home Screen</string>
+    <string name="gallery_subtitle">Tap any artwork or pick your own photo to preview &amp; apply</string>
+    <string name="pick_photo_button">My Photo</string>
+    <string name="pick_photo_subtitle">Choose from device gallery</string>
+    <string name="active_home_badge">Active on Home</string>
+    <string name="favorites_empty_title">No Saved Wallpapers Yet</string>
+    <string name="favorites_empty_subtitle">Tap the heart icon on any wallpaper to keep your favorites handy.</string>
+    <string name="my_photos_empty_title">Pick a Personal Photo</string>
+    <string name="my_photos_empty_subtitle">Select any picture from your gallery without granting storage permissions.</string>
+    <string name="preview_mode_clean">Clean</string>
+    <string name="preview_mode_home">Home Screen</string>
+    <string name="preview_mode_lock">Lock Screen</string>
+    <string name="set_home_wallpaper">Set Home Wallpaper</string>
+    <string name="set_lock_wallpaper">Lock Screen</string>
+    <string name="set_both_wallpapers">Home &amp; Lock</string>
+    <string name="more_targets">Targets</string>
+    <string name="dim_label">Icon Contrast Dim</string>
+    <string name="blur_label">Soft Blur</string>
+    <string name="applying_wallpaper">Applying to Home Screen…</string>
+    <string name="wallpaper_applied_home">Home Screen wallpaper updated</string>
+    <string name="wallpaper_applied_lock">Lock Screen wallpaper updated</string>
+    <string name="wallpaper_applied_both">Home &amp; Lock Screen updated</string>
+    <string name="wallpaper_apply_error">Could not apply wallpaper. Please try another image.</string>
+    <string name="nav_discover">Studio</string>
+    <string name="nav_favorites">Saved</string>
+    <string name="nav_custom">My Photos</string>
+</resources>
